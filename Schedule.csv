@@ -1,0 +1,463 @@
+White,Black
+Carlsen Magnus,Doan Duc Nguyen Long
+Kasparov Garry,Tran Nhut An
+Caruana Fabiano,Short Nigel
+Aronian Levon,Korchnoi Viktor
+So Wesley,Nguyen Ngoc Truong Son
+Vachier-Lagrave Maxime,Xiong Jeffery
+Kramnik Vladimir,Le Quang Liem
+Anand Viswanathan,Polgar Judit
+Nakamura Hikaru,Radjabov Teimour
+Topalov Veselin,Giri Anish
+Grischuk Alexander,Mamedyarov Shakhriyar
+Carlsen Magnus,Tran Nhut An
+Doan Duc Nguyen Long,Short Nigel
+Kasparov Garry,Korchnoi Viktor
+Caruana Fabiano,Nguyen Ngoc Truong Son
+Aronian Levon,Xiong Jeffery
+So Wesley,Le Quang Liem
+Vachier-Lagrave Maxime,Polgar Judit
+Kramnik Vladimir,Radjabov Teimour
+Anand Viswanathan,Giri Anish
+Nakamura Hikaru,Mamedyarov Shakhriyar
+Topalov Veselin,Grischuk Alexander
+Carlsen Magnus,Short Nigel
+Tran Nhut An,Korchnoi Viktor
+Doan Duc Nguyen Long,Nguyen Ngoc Truong Son
+Kasparov Garry,Xiong Jeffery
+Caruana Fabiano,Le Quang Liem
+Aronian Levon,Polgar Judit
+So Wesley,Radjabov Teimour
+Vachier-Lagrave Maxime,Giri Anish
+Kramnik Vladimir,Mamedyarov Shakhriyar
+Anand Viswanathan,Grischuk Alexander
+Nakamura Hikaru,Topalov Veselin
+Carlsen Magnus,Korchnoi Viktor
+Short Nigel,Nguyen Ngoc Truong Son
+Tran Nhut An,Xiong Jeffery
+Doan Duc Nguyen Long,Le Quang Liem
+Kasparov Garry,Polgar Judit
+Caruana Fabiano,Radjabov Teimour
+Aronian Levon,Giri Anish
+So Wesley,Mamedyarov Shakhriyar
+Vachier-Lagrave Maxime,Grischuk Alexander
+Kramnik Vladimir,Topalov Veselin
+Anand Viswanathan,Nakamura Hikaru
+Carlsen Magnus,Nguyen Ngoc Truong Son
+Korchnoi Viktor,Xiong Jeffery
+Short Nigel,Le Quang Liem
+Tran Nhut An,Polgar Judit
+Doan Duc Nguyen Long,Radjabov Teimour
+Kasparov Garry,Giri Anish
+Caruana Fabiano,Mamedyarov Shakhriyar
+Aronian Levon,Grischuk Alexander
+So Wesley,Topalov Veselin
+Vachier-Lagrave Maxime,Nakamura Hikaru
+Kramnik Vladimir,Anand Viswanathan
+Carlsen Magnus,Xiong Jeffery
+Nguyen Ngoc Truong Son,Le Quang Liem
+Korchnoi Viktor,Polgar Judit
+Short Nigel,Radjabov Teimour
+Tran Nhut An,Giri Anish
+Doan Duc Nguyen Long,Mamedyarov Shakhriyar
+Kasparov Garry,Grischuk Alexander
+Caruana Fabiano,Topalov Veselin
+Aronian Levon,Nakamura Hikaru
+So Wesley,Anand Viswanathan
+Vachier-Lagrave Maxime,Kramnik Vladimir
+Carlsen Magnus,Le Quang Liem
+Xiong Jeffery,Polgar Judit
+Nguyen Ngoc Truong Son,Radjabov Teimour
+Korchnoi Viktor,Giri Anish
+Short Nigel,Mamedyarov Shakhriyar
+Tran Nhut An,Grischuk Alexander
+Doan Duc Nguyen Long,Topalov Veselin
+Kasparov Garry,Nakamura Hikaru
+Caruana Fabiano,Anand Viswanathan
+Aronian Levon,Kramnik Vladimir
+So Wesley,Vachier-Lagrave Maxime
+Carlsen Magnus,Polgar Judit
+Le Quang Liem,Radjabov Teimour
+Xiong Jeffery,Giri Anish
+Nguyen Ngoc Truong Son,Mamedyarov Shakhriyar
+Korchnoi Viktor,Grischuk Alexander
+Short Nigel,Topalov Veselin
+Tran Nhut An,Nakamura Hikaru
+Doan Duc Nguyen Long,Anand Viswanathan
+Kasparov Garry,Kramnik Vladimir
+Caruana Fabiano,Vachier-Lagrave Maxime
+Aronian Levon,So Wesley
+Carlsen Magnus,Radjabov Teimour
+Polgar Judit,Giri Anish
+Le Quang Liem,Mamedyarov Shakhriyar
+Xiong Jeffery,Grischuk Alexander
+Nguyen Ngoc Truong Son,Topalov Veselin
+Korchnoi Viktor,Nakamura Hikaru
+Short Nigel,Anand Viswanathan
+Tran Nhut An,Kramnik Vladimir
+Doan Duc Nguyen Long,Vachier-Lagrave Maxime
+Kasparov Garry,So Wesley
+Caruana Fabiano,Aronian Levon
+Carlsen Magnus,Giri Anish
+Radjabov Teimour,Mamedyarov Shakhriyar
+Polgar Judit,Grischuk Alexander
+Le Quang Liem,Topalov Veselin
+Xiong Jeffery,Nakamura Hikaru
+Nguyen Ngoc Truong Son,Anand Viswanathan
+Korchnoi Viktor,Kramnik Vladimir
+Short Nigel,Vachier-Lagrave Maxime
+Tran Nhut An,So Wesley
+Doan Duc Nguyen Long,Aronian Levon
+Kasparov Garry,Caruana Fabiano
+Carlsen Magnus,Mamedyarov Shakhriyar
+Giri Anish,Grischuk Alexander
+Radjabov Teimour,Topalov Veselin
+Polgar Judit,Nakamura Hikaru
+Le Quang Liem,Anand Viswanathan
+Xiong Jeffery,Kramnik Vladimir
+Nguyen Ngoc Truong Son,Vachier-Lagrave Maxime
+Korchnoi Viktor,So Wesley
+Short Nigel,Aronian Levon
+Tran Nhut An,Caruana Fabiano
+Doan Duc Nguyen Long,Kasparov Garry
+Carlsen Magnus,Grischuk Alexander
+Mamedyarov Shakhriyar,Topalov Veselin
+Giri Anish,Nakamura Hikaru
+Radjabov Teimour,Anand Viswanathan
+Polgar Judit,Kramnik Vladimir
+Le Quang Liem,Vachier-Lagrave Maxime
+Xiong Jeffery,So Wesley
+Nguyen Ngoc Truong Son,Aronian Levon
+Korchnoi Viktor,Caruana Fabiano
+Short Nigel,Kasparov Garry
+Tran Nhut An,Doan Duc Nguyen Long
+Carlsen Magnus,Topalov Veselin
+Grischuk Alexander,Nakamura Hikaru
+Mamedyarov Shakhriyar,Anand Viswanathan
+Giri Anish,Kramnik Vladimir
+Radjabov Teimour,Vachier-Lagrave Maxime
+Polgar Judit,So Wesley
+Le Quang Liem,Aronian Levon
+Xiong Jeffery,Caruana Fabiano
+Nguyen Ngoc Truong Son,Kasparov Garry
+Korchnoi Viktor,Doan Duc Nguyen Long
+Short Nigel,Tran Nhut An
+Carlsen Magnus,Nakamura Hikaru
+Topalov Veselin,Anand Viswanathan
+Grischuk Alexander,Kramnik Vladimir
+Mamedyarov Shakhriyar,Vachier-Lagrave Maxime
+Giri Anish,So Wesley
+Radjabov Teimour,Aronian Levon
+Polgar Judit,Caruana Fabiano
+Le Quang Liem,Kasparov Garry
+Xiong Jeffery,Doan Duc Nguyen Long
+Nguyen Ngoc Truong Son,Tran Nhut An
+Korchnoi Viktor,Short Nigel
+Carlsen Magnus,Anand Viswanathan
+Nakamura Hikaru,Kramnik Vladimir
+Topalov Veselin,Vachier-Lagrave Maxime
+Grischuk Alexander,So Wesley
+Mamedyarov Shakhriyar,Aronian Levon
+Giri Anish,Caruana Fabiano
+Radjabov Teimour,Kasparov Garry
+Polgar Judit,Doan Duc Nguyen Long
+Le Quang Liem,Tran Nhut An
+Xiong Jeffery,Short Nigel
+Nguyen Ngoc Truong Son,Korchnoi Viktor
+Carlsen Magnus,Kramnik Vladimir
+Anand Viswanathan,Vachier-Lagrave Maxime
+Nakamura Hikaru,So Wesley
+Topalov Veselin,Aronian Levon
+Grischuk Alexander,Caruana Fabiano
+Mamedyarov Shakhriyar,Kasparov Garry
+Giri Anish,Doan Duc Nguyen Long
+Radjabov Teimour,Tran Nhut An
+Polgar Judit,Short Nigel
+Le Quang Liem,Korchnoi Viktor
+Xiong Jeffery,Nguyen Ngoc Truong Son
+Carlsen Magnus,Vachier-Lagrave Maxime
+Kramnik Vladimir,So Wesley
+Anand Viswanathan,Aronian Levon
+Nakamura Hikaru,Caruana Fabiano
+Topalov Veselin,Kasparov Garry
+Grischuk Alexander,Doan Duc Nguyen Long
+Mamedyarov Shakhriyar,Tran Nhut An
+Giri Anish,Short Nigel
+Radjabov Teimour,Korchnoi Viktor
+Polgar Judit,Nguyen Ngoc Truong Son
+Le Quang Liem,Xiong Jeffery
+Carlsen Magnus,So Wesley
+Vachier-Lagrave Maxime,Aronian Levon
+Kramnik Vladimir,Caruana Fabiano
+Anand Viswanathan,Kasparov Garry
+Nakamura Hikaru,Doan Duc Nguyen Long
+Topalov Veselin,Tran Nhut An
+Grischuk Alexander,Short Nigel
+Mamedyarov Shakhriyar,Korchnoi Viktor
+Giri Anish,Nguyen Ngoc Truong Son
+Radjabov Teimour,Xiong Jeffery
+Polgar Judit,Le Quang Liem
+Carlsen Magnus,Aronian Levon
+So Wesley,Caruana Fabiano
+Vachier-Lagrave Maxime,Kasparov Garry
+Kramnik Vladimir,Doan Duc Nguyen Long
+Anand Viswanathan,Tran Nhut An
+Nakamura Hikaru,Short Nigel
+Topalov Veselin,Korchnoi Viktor
+Grischuk Alexander,Nguyen Ngoc Truong Son
+Mamedyarov Shakhriyar,Xiong Jeffery
+Giri Anish,Le Quang Liem
+Radjabov Teimour,Polgar Judit
+Carlsen Magnus,Caruana Fabiano
+Aronian Levon,Kasparov Garry
+So Wesley,Doan Duc Nguyen Long
+Vachier-Lagrave Maxime,Tran Nhut An
+Kramnik Vladimir,Short Nigel
+Anand Viswanathan,Korchnoi Viktor
+Nakamura Hikaru,Nguyen Ngoc Truong Son
+Topalov Veselin,Xiong Jeffery
+Grischuk Alexander,Le Quang Liem
+Mamedyarov Shakhriyar,Polgar Judit
+Giri Anish,Radjabov Teimour
+Carlsen Magnus,Kasparov Garry
+Caruana Fabiano,Doan Duc Nguyen Long
+Aronian Levon,Tran Nhut An
+So Wesley,Short Nigel
+Vachier-Lagrave Maxime,Korchnoi Viktor
+Kramnik Vladimir,Nguyen Ngoc Truong Son
+Anand Viswanathan,Xiong Jeffery
+Nakamura Hikaru,Le Quang Liem
+Topalov Veselin,Polgar Judit
+Grischuk Alexander,Radjabov Teimour
+Mamedyarov Shakhriyar,Giri Anish
+Doan Duc Nguyen Long,Carlsen Magnus
+Tran Nhut An,Kasparov Garry
+Short Nigel,Caruana Fabiano
+Korchnoi Viktor,Aronian Levon
+Nguyen Ngoc Truong Son,So Wesley
+Xiong Jeffery,Vachier-Lagrave Maxime
+Le Quang Liem,Kramnik Vladimir
+Polgar Judit,Anand Viswanathan
+Radjabov Teimour,Nakamura Hikaru
+Giri Anish,Topalov Veselin
+Mamedyarov Shakhriyar,Grischuk Alexander
+Tran Nhut An,Carlsen Magnus
+Short Nigel,Doan Duc Nguyen Long
+Korchnoi Viktor,Kasparov Garry
+Nguyen Ngoc Truong Son,Caruana Fabiano
+Xiong Jeffery,Aronian Levon
+Le Quang Liem,So Wesley
+Polgar Judit,Vachier-Lagrave Maxime
+Radjabov Teimour,Kramnik Vladimir
+Giri Anish,Anand Viswanathan
+Mamedyarov Shakhriyar,Nakamura Hikaru
+Grischuk Alexander,Topalov Veselin
+Short Nigel,Carlsen Magnus
+Korchnoi Viktor,Tran Nhut An
+Nguyen Ngoc Truong Son,Doan Duc Nguyen Long
+Xiong Jeffery,Kasparov Garry
+Le Quang Liem,Caruana Fabiano
+Polgar Judit,Aronian Levon
+Radjabov Teimour,So Wesley
+Giri Anish,Vachier-Lagrave Maxime
+Mamedyarov Shakhriyar,Kramnik Vladimir
+Grischuk Alexander,Anand Viswanathan
+Topalov Veselin,Nakamura Hikaru
+Korchnoi Viktor,Carlsen Magnus
+Nguyen Ngoc Truong Son,Short Nigel
+Xiong Jeffery,Tran Nhut An
+Le Quang Liem,Doan Duc Nguyen Long
+Polgar Judit,Kasparov Garry
+Radjabov Teimour,Caruana Fabiano
+Giri Anish,Aronian Levon
+Mamedyarov Shakhriyar,So Wesley
+Grischuk Alexander,Vachier-Lagrave Maxime
+Topalov Veselin,Kramnik Vladimir
+Nakamura Hikaru,Anand Viswanathan
+Nguyen Ngoc Truong Son,Carlsen Magnus
+Xiong Jeffery,Korchnoi Viktor
+Le Quang Liem,Short Nigel
+Polgar Judit,Tran Nhut An
+Radjabov Teimour,Doan Duc Nguyen Long
+Giri Anish,Kasparov Garry
+Mamedyarov Shakhriyar,Caruana Fabiano
+Grischuk Alexander,Aronian Levon
+Topalov Veselin,So Wesley
+Nakamura Hikaru,Vachier-Lagrave Maxime
+Anand Viswanathan,Kramnik Vladimir
+Xiong Jeffery,Carlsen Magnus
+Le Quang Liem,Nguyen Ngoc Truong Son
+Polgar Judit,Korchnoi Viktor
+Radjabov Teimour,Short Nigel
+Giri Anish,Tran Nhut An
+Mamedyarov Shakhriyar,Doan Duc Nguyen Long
+Grischuk Alexander,Kasparov Garry
+Topalov Veselin,Caruana Fabiano
+Nakamura Hikaru,Aronian Levon
+Anand Viswanathan,So Wesley
+Kramnik Vladimir,Vachier-Lagrave Maxime
+Le Quang Liem,Carlsen Magnus
+Polgar Judit,Xiong Jeffery
+Radjabov Teimour,Nguyen Ngoc Truong Son
+Giri Anish,Korchnoi Viktor
+Mamedyarov Shakhriyar,Short Nigel
+Grischuk Alexander,Tran Nhut An
+Topalov Veselin,Doan Duc Nguyen Long
+Nakamura Hikaru,Kasparov Garry
+Anand Viswanathan,Caruana Fabiano
+Kramnik Vladimir,Aronian Levon
+Vachier-Lagrave Maxime,So Wesley
+Polgar Judit,Carlsen Magnus
+Radjabov Teimour,Le Quang Liem
+Giri Anish,Xiong Jeffery
+Mamedyarov Shakhriyar,Nguyen Ngoc Truong Son
+Grischuk Alexander,Korchnoi Viktor
+Topalov Veselin,Short Nigel
+Nakamura Hikaru,Tran Nhut An
+Anand Viswanathan,Doan Duc Nguyen Long
+Kramnik Vladimir,Kasparov Garry
+Vachier-Lagrave Maxime,Caruana Fabiano
+So Wesley,Aronian Levon
+Radjabov Teimour,Carlsen Magnus
+Giri Anish,Polgar Judit
+Mamedyarov Shakhriyar,Le Quang Liem
+Grischuk Alexander,Xiong Jeffery
+Topalov Veselin,Nguyen Ngoc Truong Son
+Nakamura Hikaru,Korchnoi Viktor
+Anand Viswanathan,Short Nigel
+Kramnik Vladimir,Tran Nhut An
+Vachier-Lagrave Maxime,Doan Duc Nguyen Long
+So Wesley,Kasparov Garry
+Aronian Levon,Caruana Fabiano
+Giri Anish,Carlsen Magnus
+Mamedyarov Shakhriyar,Radjabov Teimour
+Grischuk Alexander,Polgar Judit
+Topalov Veselin,Le Quang Liem
+Nakamura Hikaru,Xiong Jeffery
+Anand Viswanathan,Nguyen Ngoc Truong Son
+Kramnik Vladimir,Korchnoi Viktor
+Vachier-Lagrave Maxime,Short Nigel
+So Wesley,Tran Nhut An
+Aronian Levon,Doan Duc Nguyen Long
+Caruana Fabiano,Kasparov Garry
+Mamedyarov Shakhriyar,Carlsen Magnus
+Grischuk Alexander,Giri Anish
+Topalov Veselin,Radjabov Teimour
+Nakamura Hikaru,Polgar Judit
+Anand Viswanathan,Le Quang Liem
+Kramnik Vladimir,Xiong Jeffery
+Vachier-Lagrave Maxime,Nguyen Ngoc Truong Son
+So Wesley,Korchnoi Viktor
+Aronian Levon,Short Nigel
+Caruana Fabiano,Tran Nhut An
+Kasparov Garry,Doan Duc Nguyen Long
+Grischuk Alexander,Carlsen Magnus
+Topalov Veselin,Mamedyarov Shakhriyar
+Nakamura Hikaru,Giri Anish
+Anand Viswanathan,Radjabov Teimour
+Kramnik Vladimir,Polgar Judit
+Vachier-Lagrave Maxime,Le Quang Liem
+So Wesley,Xiong Jeffery
+Aronian Levon,Nguyen Ngoc Truong Son
+Caruana Fabiano,Korchnoi Viktor
+Kasparov Garry,Short Nigel
+Doan Duc Nguyen Long,Tran Nhut An
+Topalov Veselin,Carlsen Magnus
+Nakamura Hikaru,Grischuk Alexander
+Anand Viswanathan,Mamedyarov Shakhriyar
+Kramnik Vladimir,Giri Anish
+Vachier-Lagrave Maxime,Radjabov Teimour
+So Wesley,Polgar Judit
+Aronian Levon,Le Quang Liem
+Caruana Fabiano,Xiong Jeffery
+Kasparov Garry,Nguyen Ngoc Truong Son
+Doan Duc Nguyen Long,Korchnoi Viktor
+Tran Nhut An,Short Nigel
+Nakamura Hikaru,Carlsen Magnus
+Anand Viswanathan,Topalov Veselin
+Kramnik Vladimir,Grischuk Alexander
+Vachier-Lagrave Maxime,Mamedyarov Shakhriyar
+So Wesley,Giri Anish
+Aronian Levon,Radjabov Teimour
+Caruana Fabiano,Polgar Judit
+Kasparov Garry,Le Quang Liem
+Doan Duc Nguyen Long,Xiong Jeffery
+Tran Nhut An,Nguyen Ngoc Truong Son
+Short Nigel,Korchnoi Viktor
+Anand Viswanathan,Carlsen Magnus
+Kramnik Vladimir,Nakamura Hikaru
+Vachier-Lagrave Maxime,Topalov Veselin
+So Wesley,Grischuk Alexander
+Aronian Levon,Mamedyarov Shakhriyar
+Caruana Fabiano,Giri Anish
+Kasparov Garry,Radjabov Teimour
+Doan Duc Nguyen Long,Polgar Judit
+Tran Nhut An,Le Quang Liem
+Short Nigel,Xiong Jeffery
+Korchnoi Viktor,Nguyen Ngoc Truong Son
+Kramnik Vladimir,Carlsen Magnus
+Vachier-Lagrave Maxime,Anand Viswanathan
+So Wesley,Nakamura Hikaru
+Aronian Levon,Topalov Veselin
+Caruana Fabiano,Grischuk Alexander
+Kasparov Garry,Mamedyarov Shakhriyar
+Doan Duc Nguyen Long,Giri Anish
+Tran Nhut An,Radjabov Teimour
+Short Nigel,Polgar Judit
+Korchnoi Viktor,Le Quang Liem
+Nguyen Ngoc Truong Son,Xiong Jeffery
+Vachier-Lagrave Maxime,Carlsen Magnus
+So Wesley,Kramnik Vladimir
+Aronian Levon,Anand Viswanathan
+Caruana Fabiano,Nakamura Hikaru
+Kasparov Garry,Topalov Veselin
+Doan Duc Nguyen Long,Grischuk Alexander
+Tran Nhut An,Mamedyarov Shakhriyar
+Short Nigel,Giri Anish
+Korchnoi Viktor,Radjabov Teimour
+Nguyen Ngoc Truong Son,Polgar Judit
+Xiong Jeffery,Le Quang Liem
+So Wesley,Carlsen Magnus
+Aronian Levon,Vachier-Lagrave Maxime
+Caruana Fabiano,Kramnik Vladimir
+Kasparov Garry,Anand Viswanathan
+Doan Duc Nguyen Long,Nakamura Hikaru
+Tran Nhut An,Topalov Veselin
+Short Nigel,Grischuk Alexander
+Korchnoi Viktor,Mamedyarov Shakhriyar
+Nguyen Ngoc Truong Son,Giri Anish
+Xiong Jeffery,Radjabov Teimour
+Le Quang Liem,Polgar Judit
+Aronian Levon,Carlsen Magnus
+Caruana Fabiano,So Wesley
+Kasparov Garry,Vachier-Lagrave Maxime
+Doan Duc Nguyen Long,Kramnik Vladimir
+Tran Nhut An,Anand Viswanathan
+Short Nigel,Nakamura Hikaru
+Korchnoi Viktor,Topalov Veselin
+Nguyen Ngoc Truong Son,Grischuk Alexander
+Xiong Jeffery,Mamedyarov Shakhriyar
+Le Quang Liem,Giri Anish
+Polgar Judit,Radjabov Teimour
+Caruana Fabiano,Carlsen Magnus
+Kasparov Garry,Aronian Levon
+Doan Duc Nguyen Long,So Wesley
+Tran Nhut An,Vachier-Lagrave Maxime
+Short Nigel,Kramnik Vladimir
+Korchnoi Viktor,Anand Viswanathan
+Nguyen Ngoc Truong Son,Nakamura Hikaru
+Xiong Jeffery,Topalov Veselin
+Le Quang Liem,Grischuk Alexander
+Polgar Judit,Mamedyarov Shakhriyar
+Radjabov Teimour,Giri Anish
+Kasparov Garry,Carlsen Magnus
+Doan Duc Nguyen Long,Caruana Fabiano
+Tran Nhut An,Aronian Levon
+Short Nigel,So Wesley
+Korchnoi Viktor,Vachier-Lagrave Maxime
+Nguyen Ngoc Truong Son,Kramnik Vladimir
+Xiong Jeffery,Anand Viswanathan
+Le Quang Liem,Nakamura Hikaru
+Polgar Judit,Topalov Veselin
+Radjabov Teimour,Grischuk Alexander
+Giri Anish,Mamedyarov Shakhriyar
